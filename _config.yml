@@ -108,7 +108,7 @@ author:
   avatar           : "/images/pic.png"
   bio              : "A guy who likes to learn Threat Hunting and other stuff"
   location         : "Spain"
-  linkedin	       : #
+  linkedin	       : "noloseconseguridad"
   twitter          : #
   email            :
   links:
@@ -124,9 +124,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/noloseconseguridad"
-    - label: #"Linkedin"
-      icon: #"fab fa-fw fa-linkedin"
-      url: #
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/noloseconseguridad"
     - label: #"Twitter"
       icon: #"fab fa-fw fa-twitter"
       url: #
